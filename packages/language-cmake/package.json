@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\Arch1eN\\AppData\\Local\\Temp\\d-118328-11688-1h764xy.o81l3anhfr\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\Arch1eN\\AppData\\Local\\Temp\\d-118328-11688-1h764xy.o81l3anhfr\\package.tgz",
+        "spec": "C:\\Users\\Arch1eN\\AppData\\Local\\Temp\\d-118328-11688-1h764xy.o81l3anhfr\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\Arch1eN\\AppData\\Local\\Temp\\apm-install-dir-118328-11688-1quop9s.7bsj6y9zfr"
+    ]
+  ],
+  "_from": "..\\d-118328-11688-1h764xy.o81l3anhfr\\package.tgz",
+  "_id": "language-cmake@1.1.0",
+  "_inCache": true,
+  "_location": "/language-cmake",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\Arch1eN\\AppData\\Local\\Temp\\d-118328-11688-1h764xy.o81l3anhfr\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\Arch1eN\\AppData\\Local\\Temp\\d-118328-11688-1h764xy.o81l3anhfr\\package.tgz",
+    "spec": "C:\\Users\\Arch1eN\\AppData\\Local\\Temp\\d-118328-11688-1h764xy.o81l3anhfr\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-118328-11688-1h764xy.o81l3anhfr\\package.tgz",
+  "_shasum": "212f88c8da89a7de4401838f5a66f02c85e9a585",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\Arch1eN\\AppData\\Local\\Temp\\d-118328-11688-1h764xy.o81l3anhfr\\package.tgz",
+  "_where": "C:\\Users\\Arch1eN\\AppData\\Local\\Temp\\apm-install-dir-118328-11688-1quop9s.7bsj6y9zfr",
+  "bugs": {
+    "url": "https://github.com/lucas-clemente/language-cmake/issues"
+  },
+  "dependencies": {},
+  "description": "Syntax highlighting for CMake for Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/lucas-clemente/language-cmake",
+  "license": "MIT",
+  "name": "language-cmake",
+  "optionalDependencies": {},
+  "readme": "# language-cmake package\n\nSyntax highlighting for CMake in atom. Converted from the\n[Textmate bundle](https://github.com/textmate/cmake.tmbundle)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-clemente/language-cmake.git"
+  },
+  "version": "1.1.0"
+}

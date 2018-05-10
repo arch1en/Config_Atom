@@ -1,0 +1,24 @@
+"*":
+  core:
+    disabledPackages: [
+      "vim-mode-plus"
+    ]
+    fileEncoding: "iso88592"
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "Visual-Studio-2015-Dark-Theme"
+    ]
+    uriHandlerRegistration: "always"
+  editor: {}
+  "exception-reporting":
+    userId: "b3aa242c-2557-45a2-b6bd-d40efcb170a9"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  "vim-mode-plus": {}
+  welcome:
+    showOnStartup: false
